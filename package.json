@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sanjibpaul59/CI-CD-Pipeline.git"
+    "url": "git+https://github.com/Sanjib-036/CI-CD-Pipeline.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sanjibpaul59/CI-CD-Pipeline/issues"
+    "url": "https://github.com/Sanjib-036/CI-CD-Pipeline/issues"
   },
-  "homepage": "https://github.com/sanjibpaul59/CI-CD-Pipeline#readme",
+  "homepage": "https://github.com/Sanjib-036/CI-CD-Pipeline#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "dotenv": "^10.0.0",
